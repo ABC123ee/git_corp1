@@ -36,13 +36,7 @@ public class TestCorp
         System.out.println("en");
         System.out.println("enxxx");
         System.out.println("enxxx1");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
-        System.out.println("enxxx2----------------");
+        System.out.println("enxxx2");
         
         
     }
