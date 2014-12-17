@@ -1,7 +1,7 @@
 /**  
 * @Title:  TestCorp.java
 * @Package git_corp1
-* @Description: TODO(用一句话描述该文件做什么)
+* @Description: TODO(鐢ㄤ竴鍙ヨ瘽鎻忚堪璇ユ枃浠跺仛浠�箞)
 * @author wangxiaoming
 * @date  Dec 17, 2014 2:09:53 PM
 * @version V1.0  
@@ -16,7 +16,6 @@ package git_corp1;
 
 /**
  * @ClassName: TestCorp
- * @Description: TODO(这里用一句话描述这个类的作用)
  * @author wangxiaoming
  * @date Dec 17, 2014 2:09:53 PM
  *
@@ -26,7 +25,6 @@ public class TestCorp
 
     /**
      * @Title: main
-     * @Description: TODO(这里用一句话描述这个方法的作用)
      * @author wangxiaoming
      * @param args
      * @throws
@@ -35,6 +33,7 @@ public class TestCorp
     {
         // TODO Auto-generated method stub
         System.out.println("son of bitch");
+        System.out.println("en");
     }
 
 }
