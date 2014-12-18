@@ -1,7 +1,7 @@
 /**  
 * @Title:  TestCorp.java
 * @Package git_corp1
-* @Description: TODO(鐢ㄤ竴鍙ヨ瘽鎻忚堪璇ユ枃浠跺仛浠�箞)
+* @Description: TODO(閻€劋绔撮崣銉ㄧ樈閹诲繗鍫拠銉︽瀮娴犺泛浠涙禒锟界疄)
 * @author wangxiaoming
 * @date  Dec 17, 2014 2:09:53 PM
 * @version V1.0  
@@ -36,16 +36,13 @@ public class TestCorp
         System.out.println("en");
         System.out.println("enxxx");
         System.out.println("enxxx1");
-        System.out.println("enxxx2");
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        System.out.println("星际穿越  露水红颜");
+        System.out.println("........匆匆那年1........");
+        System.out.println("........匆匆那年2........");
+        System.out.println("........匆匆那年3........");
+        System.out.println("........匆匆那年4........");
+        System.out.println("........匆匆那年5........");
+        System.out.println("........匆匆那年6........");
     }
 
 }
