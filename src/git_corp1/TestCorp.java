@@ -50,9 +50,7 @@ public class TestCorp
         System.out.println("take in this place");
         System.out.println("my heart will go on");
         System.out.println("monther's fuck");
-        System.out.println("提拉米苏");
-        System.out.println("黑森林");
-        System.out.println("enthuaseim");
+        System.out.println("...test...");
     }
 
 }
